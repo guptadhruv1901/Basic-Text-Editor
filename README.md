@@ -36,4 +36,4 @@ This project is licensed under the [MIT](LICENSE).
 
 ## Contact
 
-If you have any questions, feel free to reach out to us at [contact_information].
+If you have any questions, feel free to reach out to us at [Dhruv Gupta](https://github.com/guptadhruv1901).
